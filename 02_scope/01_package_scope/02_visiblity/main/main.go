@@ -7,5 +7,5 @@ import (
 
 func main() {
 	fmt.Print(vis.MyName)
-	fmt.Print(yourName)
+	vis.Printvar()
 }
