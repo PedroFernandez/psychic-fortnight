@@ -2,7 +2,7 @@ package vis
 
 import "fmt"
 
-func PrintVar()  {
+func main()  {
 	fmt.Println(MyName)
 	fmt.Println(yourName)
 }
